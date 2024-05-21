@@ -7,7 +7,7 @@ Requirements
 Setup
 Usage
 Contributing
-License
+
 Introduction
 Managing a grocery store efficiently requires effective management of inventory and sales transactions. This project provides a simple yet effective solution for managing a grocery store's operations, including adding stock items, generating bills for purchases, and modifying bills if needed.
 
@@ -52,5 +52,4 @@ Add items to the stock, create bills for purchases, and modify bills as needed.
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request. Follow the guidelines in the CONTRIBUTING.md file for contributing to this project.
 
-License
-This project is licensed under the MIT License, allowing for free use, modification, and distribution for personal or commercial purposes. Refer to the LICENSE file for detailed information.
+
