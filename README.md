@@ -1,4 +1,4 @@
-Grocery Store Management System
+eeGrocery Store Management System
 This C++ project is a Grocery Store Management System that allows users to manage stock items, create bills for purchases, and view total expenses. The system is designed to handle different categories of items such as vegetables, fruits, groceries, and medicines.
 Table of Contents
 Introduction
@@ -49,7 +49,5 @@ Use the numeric options provided to navigate through different functionalities s
 Interact with the System:
 Add items to the stock, create bills for purchases, and modify bills as needed.
 
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request. Follow the guidelines in the CONTRIBUTING.md file for contributing to this project.
 
 
